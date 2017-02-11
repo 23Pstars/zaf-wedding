@@ -1,0 +1,22 @@
+{
+  "name": "zaf-wedding",
+  "version": "1.0.0",
+  "description": "My personal wedding web page",
+  "author": "Ahmad Zafrullah",
+  "dependencies": {
+    "gulp": "latest",
+    "gulp-newer": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-htmlmin": "latest",
+    "gulp-deporder": "latest",
+    "gulp-concat": "latest",
+    "gulp-strip-debug": "latest",
+    "gulp-uglify": "latest",
+    "gulp-postcss": "latest",
+    "postcss-assets": "latest",
+    "autoprefixer": "latest",
+    "css-mqpacker": "latest",
+    "cssnano": "latest",
+    "gulp-concat-css": "latest"
+  }
+}
