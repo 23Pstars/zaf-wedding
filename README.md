@@ -4,6 +4,6 @@
 - `gulp`
 
 # Build
-Jalankan `gulp` dan akses direktori `_dist`
+Jalankan `npm install && gulp` dan akses direktori `_dist`.
 
 [Demo](http://zaf.web.id/wedding)
